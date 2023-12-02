@@ -1,6 +1,6 @@
 # Desafio Final - SelfCare 💚
 
-Fiz esse projeto com base nos conhecimentos obtidos durante o modulo 1 do curso Vai na Web.
+Fiz esse projeto com base nos conhecimentos obtidos durante o Modulo 1 do curso de Desenvolvimento Web do Vai na Web.
 
 ## Tecnologias 💻
 HTML & CSS
@@ -15,4 +15,4 @@ Visual Studio Code
 - Nomes de class com sentido
 - Responsivo
 
-## Muito obrigada! ❤️💻
+## Muito obrigada! 💙💻
